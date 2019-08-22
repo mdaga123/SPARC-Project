@@ -11,4 +11,4 @@ This project has been accomplished undeer the guidance of Professor Rajwa at Pur
                               b) Tukey Plot \
                               c) Bar Plot \
                               d) Scatter Plot \
-3) Spatial Analysis Tab - This is specifically designed for plotting spatial data points for a rat's stomach. This tab might not be used for generic purpose.
+3) Spatial Analysis Tab - This is specifically designed for plotting spatial neuron-related data points for stomach. This tab might not be used for generic purpose.
